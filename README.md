@@ -3,7 +3,7 @@ Thats the initial commit
 hope you like it
 
 To jest Śląska wariacja nt Lokomotywy Juliana Tuwima
-Autor niewiemjaki
+Autor nie wiem jaki
 
 Lokomotywa! 
 Jest na banhowie ciynszko maszyna 
